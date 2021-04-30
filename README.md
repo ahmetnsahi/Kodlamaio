@@ -1,2 +1,0 @@
-# Kodlamaio
-Ödev 
